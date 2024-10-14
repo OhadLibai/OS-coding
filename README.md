@@ -1,1 +1,1 @@
-Encompassing many aspects of OS code in C
+Encompassing different aspects of OS code in C
